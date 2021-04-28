@@ -1,0 +1,26 @@
+h2 {
+    display: block;
+    text-align:  center;
+}
+
+
+body {
+    background: #fff;
+    align-content: center;
+}
+
+section {
+    display: none;
+}
+
+.active_block {
+    display: block;
+    background: rgb(200, 200, 200);
+    margin-top: 15%;
+    margin: 0 auto;
+    max-width: 60%;
+    padding: 20px 40px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    
+}
